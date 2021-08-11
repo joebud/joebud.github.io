@@ -18,6 +18,7 @@ _OLD/
 #debug/
 #dist/
 
+/push-all.sh
 /LICENSE
 #/MANIFEST.in
 #/setup.cfg
